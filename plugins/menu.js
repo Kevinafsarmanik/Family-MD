@@ -19,8 +19,8 @@ const defaultMenu = {
 │
 ├ Uptime: *%uptime (%muptime)*
 ├ Database: %rtotalreg dari %totalreg
-├ Github:
-├ %github
+├ instagram:kevinafsar_
+├ kamu itu kayak tayo..tanpamu aku loyo;(
 └────
 %readmore`.trim(),
   header: '┌─〔 %category 〕',
